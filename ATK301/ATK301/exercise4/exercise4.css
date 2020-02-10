@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+background-color: #00FF00;
+}
+
+ #bluebackground {
+  background-color: #5151DB;
+}
+
+.yellowbackground {
+ background-color: #FAFA4B;
+}
+
+
+a {
+ color: #ff0000;
+ text-decoration: none; 
+}
+
+a:hover {
+ color: #00ff00;
+}

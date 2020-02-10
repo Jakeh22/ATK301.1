@@ -1,0 +1,31 @@
+.customtext {
+font-family: sans-serif;
+font-size: 16px;
+}
+
+.textcenter {
+text-align: center;
+}
+
+.textjustify {
+text-align: justify;
+}
+
+h1, h2, h3, h4, h5, h6 {
+font-style: italic;
+font-weight: normal;
+color: #FFAD27;
+}
+
+.imgbox {
+border: 15px solid #000000;
+padding: 10px 10px 10px 10px;
+margin: 20px 20px 20px 20px;
+background-color: #ffffff;
+}
+
+body {
+background-image: url(apple.JPEG);
+background-repeat: repeat-x;
+background-position: center;
+}

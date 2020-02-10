@@ -1,0 +1,48 @@
+h1 {
+    color: red;
+background-color: #000000;
+}
+
+h3 {
+    color: #2071FF;
+}
+
+h4 {
+    color: #9108AD;
+}
+
+#div {
+    color: #99001C;
+}
+
+#neon {
+    color: #FF3FD3;
+  }
+
+#neon2 {
+    color: #3FFFB3;
+  }
+
+.spanstyle {
+    color: #1DABAD;
+}
+
+a {
+    color: #FF1C1C;
+   }
+
+a:link {
+       color: #FF1C1C;
+      }
+
+a:hover {
+    color: #F3FF3A;
+}
+
+a:visited {
+    color: #39EA00;
+}
+
+a:active {
+ color: #000000;
+}
